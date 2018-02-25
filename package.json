@@ -1,0 +1,14 @@
+{
+  "name": "parcel-plugin-shader-loader",
+  "version": "1.0.0",
+  "description": "Load external GLSL files via import from your scripts",
+  "main": "./src/index.js",
+  "repository": "https://github.com/radixzz/parcel-plugin-shader-loader",
+  "author": "Iván Juárez <ivan@blindgazer.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.2"
+  }
+}
+
